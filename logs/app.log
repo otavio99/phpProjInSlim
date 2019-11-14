@@ -1,0 +1,152 @@
+[2019-11-01 16:42:34] slim-app.INFO: Home page was viewed. [] {"uid":"ebfae1d"}
+[2019-11-01 16:42:37] slim-app.INFO: Listing jokes [] {"uid":"f407662"}
+[2019-11-01 16:43:37] slim-app.INFO: Listing jokes [] {"uid":"b171b4f"}
+[2019-11-01 16:43:38] slim-app.INFO: Listing jokes [] {"uid":"4c4fdd3"}
+[2019-11-01 16:43:59] slim-app.INFO: Listing jokes [] {"uid":"5d79ee7"}
+[2019-11-01 16:45:12] slim-app.INFO: Listing jokes [] {"uid":"3f73a0d"}
+[2019-11-01 16:45:13] slim-app.INFO: Listing jokes [] {"uid":"fd1d6ed"}
+[2019-11-01 16:45:17] slim-app.INFO: Listing jokes [] {"uid":"135c9a0"}
+[2019-11-01 16:45:22] slim-app.INFO: Listing jokes [] {"uid":"df791f9"}
+[2019-11-01 16:46:34] slim-app.INFO: Listing jokes [] {"uid":"4fc2518"}
+[2019-11-01 16:46:35] slim-app.INFO: Listing jokes [] {"uid":"d71397c"}
+[2019-11-01 16:46:54] slim-app.INFO: Listing jokes [] {"uid":"1db3ca2"}
+[2019-11-01 16:46:55] slim-app.INFO: Listing jokes [] {"uid":"7640a97"}
+[2019-11-01 16:47:18] slim-app.INFO: Listing jokes [] {"uid":"bbb00f7"}
+[2019-11-01 16:47:58] slim-app.INFO: Adding a joke. [] {"uid":"58a96c9"}
+[2019-11-01 16:48:00] slim-app.INFO: Listing jokes [] {"uid":"785369d"}
+[2019-11-01 16:48:59] slim-app.INFO: Home page was viewed. [] {"uid":"b6a0174"}
+[2019-11-01 16:49:02] slim-app.INFO: Listing jokes [] {"uid":"c308294"}
+[2019-11-01 16:49:20] slim-app.INFO: Listing jokes [] {"uid":"feef0b0"}
+[2019-11-01 16:49:22] slim-app.INFO: Updating a joke. [] {"uid":"3dccafc"}
+[2019-11-01 16:49:52] slim-app.INFO: Listing jokes [] {"uid":"c7ccbc6"}
+[2019-11-01 16:49:53] slim-app.INFO: Updating a joke. [] {"uid":"ef93a5a"}
+[2019-11-01 16:50:07] slim-app.INFO: Listing jokes [] {"uid":"a47ba17"}
+[2019-11-01 16:50:08] slim-app.INFO: Listing jokes [] {"uid":"862cf06"}
+[2019-11-01 16:50:09] slim-app.INFO: Updating a joke. [] {"uid":"2227db1"}
+[2019-11-01 16:50:16] slim-app.INFO: Updating a joke. [] {"uid":"8d98b95"}
+[2019-11-01 16:50:19] slim-app.INFO: Listing jokes [] {"uid":"7918b5b"}
+[2019-11-01 16:51:06] slim-app.INFO: Listing jokes [] {"uid":"eff34f2"}
+[2019-11-01 16:51:07] slim-app.INFO: Updating a joke. [] {"uid":"bf3e120"}
+[2019-11-01 16:51:50] slim-app.INFO: Listing jokes [] {"uid":"ce53755"}
+[2019-11-01 16:51:51] slim-app.INFO: Listing jokes [] {"uid":"32e5369"}
+[2019-11-01 16:51:53] slim-app.INFO: Updating a joke. [] {"uid":"47dae4e"}
+[2019-11-01 16:52:04] slim-app.INFO: Listing jokes [] {"uid":"f17794a"}
+[2019-11-01 16:52:05] slim-app.INFO: Listing jokes [] {"uid":"9d94c15"}
+[2019-11-01 16:52:07] slim-app.INFO: Updating a joke. [] {"uid":"c9356af"}
+[2019-11-01 16:52:23] slim-app.INFO: Listing jokes [] {"uid":"3da8c4c"}
+[2019-11-01 16:52:24] slim-app.INFO: Updating a joke. [] {"uid":"0ab76e0"}
+[2019-11-01 16:53:07] slim-app.INFO: Listing jokes [] {"uid":"56da641"}
+[2019-11-01 16:53:08] slim-app.INFO: Listing jokes [] {"uid":"c0b0403"}
+[2019-11-01 16:53:15] slim-app.INFO: Listing jokes [] {"uid":"1cdb2ff"}
+[2019-11-01 16:53:30] slim-app.INFO: Listing jokes [] {"uid":"3570249"}
+[2019-11-01 16:53:32] slim-app.INFO: Updating a joke. [] {"uid":"a16d6ca"}
+[2019-11-02 06:31:14] slim-app.INFO: Home page was viewed. [] {"uid":"54ccfe4"}
+[2019-11-02 06:31:23] slim-app.INFO: Listing jokes [] {"uid":"b75cd88"}
+[2019-11-02 06:31:25] slim-app.INFO: Updating a joke. [] {"uid":"50f08f6"}
+[2019-11-02 06:32:06] slim-app.INFO: Home page was viewed. [] {"uid":"5e4f340"}
+[2019-11-02 06:33:18] slim-app.INFO: Listing jokes [] {"uid":"38e3ad2"}
+[2019-11-02 06:33:20] slim-app.INFO: Updating a joke. [] {"uid":"568e150"}
+[2019-11-02 06:33:38] slim-app.INFO: Listing jokes [] {"uid":"a54737e"}
+[2019-11-02 06:33:44] slim-app.INFO: Updating a joke. [] {"uid":"3852fa8"}
+[2019-11-02 06:34:01] slim-app.INFO: Updating a joke. [] {"uid":"e6b8182"}
+[2019-11-02 06:34:48] slim-app.INFO: Updating a joke. [] {"uid":"6a17b28"}
+[2019-11-02 06:34:50] slim-app.INFO: Listing jokes [] {"uid":"8060695"}
+[2019-11-02 06:38:25] slim-app.INFO: Home page was viewed. [] {"uid":"6e1439d"}
+[2019-11-02 06:38:26] slim-app.INFO: Listing jokes [] {"uid":"e01b0bc"}
+[2019-11-02 06:38:53] slim-app.INFO: Listing jokes [] {"uid":"33f0c2e"}
+[2019-11-02 06:38:55] slim-app.INFO: Listing jokes [] {"uid":"fa290f3"}
+[2019-11-02 06:39:02] slim-app.INFO: Updating a joke. [] {"uid":"7d24b7d"}
+[2019-11-02 06:39:28] slim-app.INFO: Listing jokes [] {"uid":"34a59c7"}
+[2019-11-02 06:39:31] slim-app.INFO: Listing jokes [] {"uid":"cf872ff"}
+[2019-11-02 06:39:47] slim-app.INFO: Updating a joke. [] {"uid":"81cfc78"}
+[2019-11-02 06:41:39] slim-app.INFO: Listing jokes [] {"uid":"12f1d61"}
+[2019-11-02 06:41:41] slim-app.INFO: Listing jokes [] {"uid":"7f3a911"}
+[2019-11-02 06:41:49] slim-app.INFO: Updating a joke. [] {"uid":"edb44c5"}
+[2019-11-02 06:42:31] slim-app.INFO: Listing jokes [] {"uid":"1039ea4"}
+[2019-11-02 06:42:51] slim-app.INFO: Listing jokes [] {"uid":"efba267"}
+[2019-11-02 06:42:52] slim-app.INFO: Listing jokes [] {"uid":"0935d86"}
+[2019-11-02 06:43:02] slim-app.INFO: Updating a joke. [] {"uid":"b7efe63"}
+[2019-11-02 06:45:19] slim-app.INFO: Listing jokes [] {"uid":"8abf434"}
+[2019-11-02 06:45:26] slim-app.INFO: Updating a joke. [] {"uid":"e3748ef"}
+[2019-11-02 06:45:27] slim-app.INFO: Listing jokes [] {"uid":"1c8db28"}
+[2019-11-02 06:45:46] slim-app.INFO: Updating a joke. [] {"uid":"97a5a7b"}
+[2019-11-02 06:45:46] slim-app.INFO: Listing jokes [] {"uid":"9696923"}
+[2019-11-02 06:45:53] slim-app.INFO: Adding a joke. [] {"uid":"c2be9d7"}
+[2019-11-02 06:45:55] slim-app.INFO: Listing jokes [] {"uid":"7914445"}
+[2019-11-02 06:46:08] slim-app.INFO: Updating a joke. [] {"uid":"8d9fe7b"}
+[2019-11-02 06:46:08] slim-app.INFO: Listing jokes [] {"uid":"80aa2aa"}
+[2019-11-02 12:24:53] slim-app.INFO: Home page was viewed. [] {"uid":"3e628b3"}
+[2019-11-02 12:24:57] slim-app.INFO: Listing jokes [] {"uid":"f433e6f"}
+[2019-11-02 12:25:53] slim-app.INFO: Listing jokes [] {"uid":"5b68d28"}
+[2019-11-02 12:26:26] slim-app.INFO: Listing jokes [] {"uid":"14c4a58"}
+[2019-11-02 12:26:32] slim-app.INFO: Adding a joke. [] {"uid":"61398e7"}
+[2019-11-02 12:26:55] slim-app.INFO: Listing jokes [] {"uid":"717e3da"}
+[2019-11-02 12:27:04] slim-app.INFO: Adding a joke. [] {"uid":"149071f"}
+[2019-11-02 12:27:11] slim-app.INFO: Home page was viewed. [] {"uid":"58fb2b6"}
+[2019-11-02 12:27:35] slim-app.INFO: Home page was viewed. [] {"uid":"75d1a01"}
+[2019-11-02 12:27:41] slim-app.INFO: Adding a joke. [] {"uid":"83cd8ad"}
+[2019-11-02 12:27:59] slim-app.INFO: Listing jokes [] {"uid":"67de0b2"}
+[2019-11-02 12:28:02] slim-app.INFO: Adding a joke. [] {"uid":"a47bad3"}
+[2019-11-02 12:28:12] slim-app.INFO: Listing jokes [] {"uid":"b9e3773"}
+[2019-11-02 12:28:20] slim-app.INFO: Listing jokes [] {"uid":"a6fa625"}
+[2019-11-02 12:28:22] slim-app.INFO: Deleting a joke. [] {"uid":"aaf5fda"}
+[2019-11-02 12:28:22] slim-app.INFO: Listing jokes [] {"uid":"f3f8707"}
+[2019-11-02 12:28:25] slim-app.INFO: Deleting a joke. [] {"uid":"fb5a948"}
+[2019-11-02 12:28:25] slim-app.INFO: Listing jokes [] {"uid":"c212797"}
+[2019-11-02 12:28:27] slim-app.INFO: Deleting a joke. [] {"uid":"e3bc864"}
+[2019-11-02 12:28:27] slim-app.INFO: Listing jokes [] {"uid":"1cfd050"}
+[2019-11-02 12:28:39] slim-app.INFO: Updating a joke. [] {"uid":"df99433"}
+[2019-11-02 12:28:39] slim-app.INFO: Listing jokes [] {"uid":"419d6a9"}
+[2019-11-02 12:28:47] slim-app.INFO: Updating a joke. [] {"uid":"a00a713"}
+[2019-11-02 12:28:47] slim-app.INFO: Listing jokes [] {"uid":"da7ad9e"}
+[2019-11-02 12:28:49] slim-app.INFO: Deleting a joke. [] {"uid":"0e45ba3"}
+[2019-11-02 12:28:49] slim-app.INFO: Listing jokes [] {"uid":"9da8145"}
+[2019-11-11 05:08:43] slim-app.INFO: Home page was viewed. [] {"uid":"6a8e3d2"}
+[2019-11-11 05:08:44] slim-app.INFO: Home page was viewed. [] {"uid":"db87a33"}
+[2019-11-11 05:08:47] slim-app.INFO: Listing jokes [] {"uid":"7a96c87"}
+[2019-11-11 05:08:52] slim-app.INFO: Listing jokes [] {"uid":"2a20e8a"}
+[2019-11-11 05:10:47] slim-app.INFO: Updating a joke. [] {"uid":"21897cd"}
+[2019-11-11 05:10:47] slim-app.INFO: Listing jokes [] {"uid":"42aa886"}
+[2019-11-11 05:10:53] slim-app.INFO: Listing jokes [] {"uid":"e99fb6f"}
+[2019-11-11 05:10:55] slim-app.INFO: Home page was viewed. [] {"uid":"9b4494e"}
+[2019-11-11 05:10:57] slim-app.INFO: Listing jokes [] {"uid":"384a350"}
+[2019-11-11 05:11:24] slim-app.INFO: Deleting a joke. [] {"uid":"c4efa3c"}
+[2019-11-11 05:11:24] slim-app.INFO: Listing jokes [] {"uid":"040d4f3"}
+[2019-11-11 05:11:29] slim-app.INFO: Deleting a joke. [] {"uid":"8df38da"}
+[2019-11-11 05:11:29] slim-app.INFO: Listing jokes [] {"uid":"10d67a5"}
+[2019-11-11 05:17:33] slim-app.INFO: Listing jokes [] {"uid":"f885f73"}
+[2019-11-11 05:17:44] slim-app.INFO: Adding a joke. [] {"uid":"153c8e3"}
+[2019-11-11 05:17:47] slim-app.INFO: Listing jokes [] {"uid":"21e9397"}
+[2019-11-11 05:19:24] slim-app.INFO: Listing jokes [] {"uid":"2dcb12e"}
+[2019-11-11 05:19:26] slim-app.INFO: Listing jokes [] {"uid":"2fa115f"}
+[2019-11-11 05:19:55] slim-app.INFO: Listing jokes [] {"uid":"9186762"}
+[2019-11-11 05:19:56] slim-app.INFO: Listing jokes [] {"uid":"7f26610"}
+[2019-11-11 05:20:24] slim-app.INFO: Listing jokes [] {"uid":"1ee97f3"}
+[2019-11-11 05:20:25] slim-app.INFO: Listing jokes [] {"uid":"2dc1ac1"}
+[2019-11-13 16:40:39] slim-app.INFO: Home page was viewed. [] {"uid":"72bb77b"}
+[2019-11-13 16:41:28] slim-app.INFO: Home page was viewed. [] {"uid":"5b60b46"}
+[2019-11-13 16:41:30] slim-app.INFO: Home page was viewed. [] {"uid":"4d9c860"}
+[2019-11-13 16:41:33] slim-app.INFO: Home page was viewed. [] {"uid":"3397c47"}
+[2019-11-13 16:42:43] slim-app.INFO: Home page was viewed. [] {"uid":"6b41d8c"}
+[2019-11-13 16:42:45] slim-app.INFO: Listing jokes [] {"uid":"61cbc1b"}
+[2019-11-13 16:42:48] slim-app.INFO: Listing jokes [] {"uid":"b3983ba"}
+[2019-11-13 16:42:51] slim-app.INFO: Deleting a joke. [] {"uid":"156407d"}
+[2019-11-13 16:42:52] slim-app.INFO: Listing jokes [] {"uid":"56f3f2e"}
+[2019-11-13 20:42:02] slim-app.INFO: Listing jokes [] {"uid":"256ac6f"}
+[2019-11-13 21:02:40] slim-app.INFO: Listing jokes [] {"uid":"73b27ed"}
+[2019-11-13 21:02:41] slim-app.INFO: Listing jokes [] {"uid":"03d96b7"}
+[2019-11-13 21:02:46] slim-app.INFO: Adding a joke. [] {"uid":"db1823b"}
+[2019-11-13 21:02:48] slim-app.INFO: Listing jokes [] {"uid":"2b997c3"}
+[2019-11-13 21:02:50] slim-app.INFO: Home page was viewed. [] {"uid":"a400c51"}
+[2019-11-13 21:04:09] slim-app.INFO: Home page was viewed. [] {"uid":"23d21fc"}
+[2019-11-13 21:04:12] slim-app.INFO: Listing jokes [] {"uid":"80cd8da"}
+[2019-11-13 21:04:13] slim-app.INFO: Listing jokes [] {"uid":"4f6cbc8"}
+[2019-11-13 21:04:15] slim-app.INFO: Deleting a joke. [] {"uid":"f43f3a1"}
+[2019-11-13 21:04:15] slim-app.INFO: Listing jokes [] {"uid":"33d6772"}
+[2019-11-13 21:04:18] slim-app.INFO: Home page was viewed. [] {"uid":"3ad3799"}
+[2019-11-13 21:04:21] slim-app.INFO: Listing jokes [] {"uid":"b17396c"}
+[2019-11-13 21:04:24] slim-app.INFO: Home page was viewed. [] {"uid":"8468ec1"}
+[2019-11-13 21:17:17] slim-app.INFO: Listing jokes [] {"uid":"f526925"}
+[2019-11-13 21:17:24] slim-app.INFO: Listing jokes [] {"uid":"3a6baea"}
+[2019-11-13 21:17:32] slim-app.INFO: Listing jokes [] {"uid":"67a4de0"}
+[2019-11-13 21:23:59] slim-app.INFO: Listing jokes [] {"uid":"6fcf95c"}
