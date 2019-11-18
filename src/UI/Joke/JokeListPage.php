@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace App\View\Joke;
+namespace App\UI\Joke;
 
-use App\View\Renderer as Renderer;
+use App\UI\Renderer as Renderer;
 
 class JokeListPage extends Renderer{
 	

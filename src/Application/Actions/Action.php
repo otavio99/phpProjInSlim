@@ -67,10 +67,6 @@ abstract class Action
      * @throws HttpBadRequestException
      */
     abstract protected function action(): Response;
-		
-		protected function respondWithView($data = null):Response{
-			return $this->response;
-		}
 
     /**
      * @return array|object

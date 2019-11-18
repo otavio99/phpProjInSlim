@@ -6,7 +6,7 @@ namespace App\Application\Actions\Joke;
 use App\Domain\Joke\Joke as Joke;
 
 use Psr\Http\Message\ResponseInterface as Response;
-use App\View\Joke\JokeListPage as Page;
+use App\UI\Joke\JokeListPage as Page;
 
 class ListJokesAction extends JokeAction
 {

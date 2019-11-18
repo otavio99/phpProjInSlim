@@ -150,3 +150,31 @@
 [2019-11-13 21:17:24] slim-app.INFO: Listing jokes [] {"uid":"3a6baea"}
 [2019-11-13 21:17:32] slim-app.INFO: Listing jokes [] {"uid":"67a4de0"}
 [2019-11-13 21:23:59] slim-app.INFO: Listing jokes [] {"uid":"6fcf95c"}
+[2019-11-18 02:30:12] slim-app.INFO: Home page was viewed. [] {"uid":"37a5966"}
+[2019-11-18 02:30:16] slim-app.INFO: Listing jokes [] {"uid":"558c0f8"}
+[2019-11-18 02:30:19] slim-app.INFO: Adding a joke. [] {"uid":"6d440ac"}
+[2019-11-18 02:30:21] slim-app.INFO: Listing jokes [] {"uid":"38cf257"}
+[2019-11-18 02:30:59] slim-app.INFO: Listing jokes [] {"uid":"9527e21"}
+[2019-11-18 02:31:06] slim-app.INFO: Listing jokes [] {"uid":"f5c404e"}
+[2019-11-18 02:45:54] slim-app.INFO: Listing jokes [] {"uid":"b957681"}
+[2019-11-18 02:46:14] slim-app.INFO: Listing jokes [] {"uid":"f0abed1"}
+[2019-11-18 02:46:18] slim-app.INFO: Adding a joke. [] {"uid":"d962715"}
+[2019-11-18 02:46:22] slim-app.INFO: Listing jokes [] {"uid":"eb124e4"}
+[2019-11-18 02:47:47] slim-app.INFO: Listing jokes [] {"uid":"9cebee3"}
+[2019-11-18 02:47:49] slim-app.INFO: Deleting a joke. [] {"uid":"c7acbfd"}
+[2019-11-18 02:47:50] slim-app.INFO: Listing jokes [] {"uid":"c0a98a2"}
+[2019-11-18 02:47:52] slim-app.INFO: Deleting a joke. [] {"uid":"5de0b92"}
+[2019-11-18 02:47:52] slim-app.INFO: Listing jokes [] {"uid":"ab11d98"}
+[2019-11-18 02:47:58] slim-app.INFO: Adding a joke. [] {"uid":"9927173"}
+[2019-11-18 02:48:00] slim-app.INFO: Listing jokes [] {"uid":"bd83390"}
+[2019-11-18 02:48:01] slim-app.INFO: Deleting a joke. [] {"uid":"d7247e6"}
+[2019-11-18 02:48:01] slim-app.INFO: Listing jokes [] {"uid":"499fc67"}
+[2019-11-18 02:49:05] slim-app.INFO: Adding a joke. [] {"uid":"2a6af9f"}
+[2019-11-18 02:49:07] slim-app.INFO: Listing jokes [] {"uid":"92ad6a7"}
+[2019-11-18 02:49:13] slim-app.INFO: Updating a joke. [] {"uid":"2826def"}
+[2019-11-18 02:49:14] slim-app.INFO: Listing jokes [] {"uid":"e860b53"}
+[2019-11-18 02:55:35] slim-app.INFO: Deleting a joke. [] {"uid":"b50f592"}
+[2019-11-18 02:55:35] slim-app.INFO: Listing jokes [] {"uid":"e7808df"}
+[2019-11-18 02:55:41] slim-app.INFO: Listing jokes [] {"uid":"8dff82a"}
+[2019-11-18 02:55:42] slim-app.INFO: Home page was viewed. [] {"uid":"c3efb88"}
+[2019-11-18 02:55:45] slim-app.INFO: Listing jokes [] {"uid":"83a4ab2"}

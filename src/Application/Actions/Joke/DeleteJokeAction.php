@@ -13,7 +13,7 @@ class DeleteJokeAction extends JokeAction
      */
     protected function action(): Response
     {
-			$this->jokeRepository->delete($_POST["id"]);
+			$this->jokeRepository->delete($this->request->getParsedBody()["id"]);
 			$this->logger->info("Deleting a joke.");
 	
 			return $this->response->withHeader("Location", "jokes")->withStatus(302);
