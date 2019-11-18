@@ -3,13 +3,16 @@ declare(strict_types=1);
 
 namespace App\UI;
 
-class Renderer{
+abstract class Renderer{
 	protected $page= "";
 	
 	protected $components= array();
 	
 	protected $htmlList= "";
 	
+    
+    abstract public function show(array $data):string;
+    
 	//return html content from file
 	protected function getHtmlContent($file):string{
 		return file_get_contents($file);

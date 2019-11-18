@@ -8,7 +8,7 @@ use App\UI\Renderer as Renderer;
 class JokeAddPage extends Renderer{
 	
 
-	public function show($data=null):string{
+	public function show($data=array()):string{
 		$this->page = $this->fileExists(__DIR__ . "/../templates/JokeTemplates/layout.tpl");
 
 		

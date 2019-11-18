@@ -22,7 +22,7 @@ class UpdateJokeAction extends JokeAction
         }
         else{
             $view= new Page();
-            $this->response->getBody()->write($view->show());
+            $this->response->getBody()->write($view->show($post));
         }
 
         return $this->response;

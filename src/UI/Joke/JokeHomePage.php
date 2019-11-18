@@ -8,7 +8,7 @@ use App\UI\Renderer as Renderer;
 class JokeHomePage extends Renderer{
 	
 
-	public function show():string{
+	public function show($data=array()):string{
 		$this->page = $this->fileExists(__DIR__ . "/../templates/JokeTemplates/layout.tpl");
 
 		$this->components= array(
